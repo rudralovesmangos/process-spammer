@@ -5,6 +5,7 @@ Why? because this code spam creates processes generating bytes and printing them
 Freeze,
 Crash,
 Etc,
+and also if you run this code it creates the processes forever until you do ctrl c or you machine eventually kills the process by itself,
 
 if you want to run this code, you absolutely can but it is your responsibility and your fault if anything bad happens
 
